@@ -1,5 +1,6 @@
 package pkgHelper;
 
+
 import static org.junit.Assert.*;
 
 import java.util.Arrays;
@@ -7,6 +8,7 @@ import java.util.Arrays;
 import org.junit.Test;
 
 public class LatinSquareTest {
+	
 
 	@Test
 	public void hasDuplicates_test1() {
